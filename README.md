@@ -1,16 +1,28 @@
-### Hi there 👋
+# 👋 Hey there!
 
-<!--
-**chamaththiwanka/chamaththiwanka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Chamath Thiwanka, a passionate **Web Developer** and **Graphic Designer** currently pursuing my BICT(Hons) at the **University of Sri Jayewardenepura**. I specialize in creating dynamic and beautiful web experiences as well as engaging graphic designs that speak volumes.
 
-Here are some ideas to get you started:
+## 💻 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Web Development:** Bringing ideas to life with HTML, CSS, and JavaScript, and exploring frameworks like React and Tailwind.
+- **Graphic Design:** Crafting visually appealing designs with tools like Adobe Photoshop, Illustrator, and Figma.
+- **Continuous Learning:** Always expanding my skill set through projects and my studies in BICT(Hons).
+
+## 🎓 Education
+
+- BICT(Hons), University of Sri Jayewardenepura (Current)
+
+## 🛠️ Skills
+
+- Languages: Python, C, C#, C++, JavaScript, PHP
+- Frameworks/Libraries: React.js, Tailwind, Bootstrap, Next.js
+- Tools: Adobe Photoshop, Adobe Illustrator, Figma, DaVinci Resolve, Visual Studio
+- Version Control: Git, GitHub
+
+## 📫 Get in Touch
+
+- GitHub: @chamaththiwanka
+- LinkedIn: https://www.linkedin.com/in/chamath-thiwanka
+- Email: chamaththiwanka@icloud.com
+
+Let's connect and build something amazing together!
